@@ -1,4 +1,7 @@
 # HDetris-2015
+<sup>last commit on Apr 27, 2015</sup>
+
+
 Classic Tetris clone developed with C++ and SFML library. Written in Visual Express 2015 IDE primarily for Windows Desktop.
 
 
